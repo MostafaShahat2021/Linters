@@ -1,0 +1,23 @@
+{
+  "name": "Linters",
+  "version": "1.0.0",
+  "description": "Installing Microverse Linters HTML/CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MostafaShahat2021/Linters.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MostafaShahat2021/Linters/issues"
+  },
+  "homepage": "https://github.com/MostafaShahat2021/Linters#readme",
+  "devDependencies": {
+    "hint": "^7.1.1"
+  }
+}
